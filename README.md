@@ -15,4 +15,3 @@ Solution to Problem Statement
 
 5. After Summarization is done, appended a summarization column to the original data set called Summary column
 
-6. For the second question where max reviews was given for the cloth id 1078 which has 1024 reviews we can try using LDA which helps in finding the Top topics from the summary. For LDA stopwords removal and other preprocessing are used
